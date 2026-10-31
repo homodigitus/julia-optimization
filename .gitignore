@@ -1,0 +1,9 @@
+# Yerel üretilen sonuçlar ve gizli veriler
+results/*
+!results/.gitkeep
+data/private/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
